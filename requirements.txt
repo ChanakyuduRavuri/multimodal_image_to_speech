@@ -3,3 +3,4 @@ torch
 Pillow
 scipy
 timm
+google-genai
